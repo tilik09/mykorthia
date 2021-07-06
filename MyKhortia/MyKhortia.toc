@@ -1,0 +1,5 @@
+## Interface: 90100
+## Title: MY Khortia
+## Author: Furia
+## Version: 1.0
+Khortia.lua
